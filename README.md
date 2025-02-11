@@ -79,6 +79,7 @@ Several visualizations are created using Plotly and Seaborn to analyze trends:
 Ensure you have the following installed:  
 ```bash
 pip install pandas numpy scikit-learn matplotlib seaborn plotly
+
 ---
 This project provides insights into the trends of most-streamed Spotify songs and explores machine learning approaches for prediction.
 
